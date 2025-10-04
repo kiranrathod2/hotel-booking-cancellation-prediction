@@ -75,41 +75,46 @@ The backend model is trained using historical hotel booking data.
 
    http://localhost:8501
 
+   ---
+
 **📦 Sample requirements.txt**
 streamlit
 pandas
 scikit-learn
 numpy
 
+---
 
 **🧩 Usage (what to input)**
 
-The app UI asks for:
+-The app UI asks for:
 
-Hotel type, Meal, Country
+-Hotel type, Meal, Country
 
-Market Segment, Distribution Channel
+-Market Segment, Distribution Channel
 
-Reserved Room Type, Deposit Type, Customer Type
+-Reserved Room Type, Deposit Type, Customer Type
 
-Lead time, stay nights (weekend & week), adults, children, babies
+-Lead time, stay nights (weekend & week), adults, children, babies
 
-Previous cancellations, previous bookings not canceled
+-Previous cancellations, previous bookings not canceled
 
-ADR (average daily rate), required parking spaces, special requests, etc.
+-ADR (average daily rate), required parking spaces, special requests, etc.
+
+---
 
 **Click Predict to see:**
 
-✅ The booking is likely to be HONORED
-
-❌ The booking is likely to be CANCELED
+   ✅ The booking is likely to be HONORED
+   
+   ❌ The booking is likely to be CANCELED
 
 **📬 Contact**
 
-GitHub: [kiranrathod2](https://github.com/kiranrathod2)
-
-Email: kiranrathod2602@gmail.com
-
-LinkedIn: www.linkedin.com/in/kiran-rathod-605919367
+   GitHub: [kiranrathod2](https://github.com/kiranrathod2)
+   
+   Email: kiranrathod2602@gmail.com
+   
+   LinkedIn: www.linkedin.com/in/kiran-rathod-605919367
 
 
