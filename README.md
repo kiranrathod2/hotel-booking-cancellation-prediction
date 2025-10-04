@@ -38,20 +38,20 @@ The backend model is trained using historical hotel booking data.
 
  -  macOS / Linux:
 
-   python3 -m venv venv
+      python3 -m venv venv
    
-   source venv/bin/activate
+      source venv/bin/activate
 
  - Windows (PowerShell):
 
-   python -m venv venv
-   .\venv\Scripts\Activate.ps1
+      python -m venv venv
+      .\venv\Scripts\Activate.ps1
 
 
  - Windows (cmd):
 
-   python -m venv venv
-   .\venv\Scripts\activate
+      python -m venv venv
+      .\venv\Scripts\activate
 
 
 5. Upgrade pip (optional)
