@@ -39,6 +39,7 @@ The backend model is trained using historical hotel booking data.
  -  macOS / Linux:
 
    python3 -m venv venv
+   
    source venv/bin/activate
 
  - Windows (PowerShell):
