@@ -87,19 +87,19 @@ numpy
 
 **🧩 Usage (what to input)**
 
--The app UI asks for:
+- The app UI asks for:
 
--Hotel type, Meal, Country
+- Hotel type, Meal, Country
 
--Market Segment, Distribution Channel
+- Market Segment, Distribution Channel
 
--Reserved Room Type, Deposit Type, Customer Type
+- Reserved Room Type, Deposit Type, Customer Type
 
--Lead time, stay nights (weekend & week), adults, children, babies
+- Lead time, stay nights (weekend & week), adults, children, babies
 
--Previous cancellations, previous bookings not canceled
+- Previous cancellations, previous bookings not canceled
 
--ADR (average daily rate), required parking spaces, special requests, etc.
+- ADR (average daily rate), required parking spaces, special requests, etc.
 
 ---
 
@@ -108,6 +108,8 @@ numpy
    ✅ The booking is likely to be HONORED
    
    ❌ The booking is likely to be CANCELED
+
+---
 
 **📬 Contact**
 
