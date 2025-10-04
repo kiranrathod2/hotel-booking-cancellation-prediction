@@ -103,6 +103,12 @@ ADR (average daily rate), required parking spaces, special requests, etc.
 
 ❌ The booking is likely to be CANCELED
 
-**CONTACT**
+**📬 Contact**
+
+GitHub: kiranrathod2
+
+Email: kiranrathod2602@gmail.com
+
+LinkedIn: www.linkedin.com/in/kiran-rathod-605919367
 
 
