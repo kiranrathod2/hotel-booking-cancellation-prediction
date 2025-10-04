@@ -1,9 +1,9 @@
-🏨 Hotel Booking Cancellation Prediction
+**🏨 Hotel Booking Cancellation Prediction**
 
 This project predicts whether a hotel booking will be canceled or honored, using machine learning.
 It is deployed as an interactive Streamlit web app that allows users to input booking details and instantly see the prediction.
 
-🚀 Project Overview
+*🚀 Project Overview*
 
 This project analyzes hotel booking data to predict cancellations based on various customer and booking features like:
 
