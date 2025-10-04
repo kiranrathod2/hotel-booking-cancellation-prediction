@@ -30,56 +30,55 @@ The backend model is trained using historical hotel booking data.
 ## 🧾 **How to Run Locally**
 
 1. Clone this repository:
-   ```bash
+   
    git clone https://github.com/<your-username>/hotel-booking-prediction.git
    cd hotel-booking-prediction
-Create & activate a virtual environment
+   
+2. Create & activate a virtual environment
 
-2. macOS / Linux:
+   macOS / Linux:
 
-python3 -m venv venv
-source venv/bin/activate
+   python3 -m venv venv
+   source venv/bin/activate
+
+  Windows (PowerShell):
+
+   python -m venv venv
+   .\venv\Scripts\Activate.ps1
 
 
-3. Windows (PowerShell):
+  Windows (cmd):
 
-python -m venv venv
-.\venv\Scripts\Activate.ps1
-
-
-4. Windows (cmd):
-
-python -m venv venv
-.\venv\Scripts\activate
+   python -m venv venv
+   .\venv\Scripts\activate
 
 
 5. Upgrade pip (optional)
 
-pip install --upgrade pip
+   pip install --upgrade pip
 
 
 6. Install dependencies (single step)
 
-pip install -r requirements.txt
+   pip install -r requirements.txt
 
 
 If you don’t have a requirements.txt, create one with the sample below.
 
 7. Run the Streamlit app
 
-streamlit run hotel_booking_deploy.py
+   streamlit run hotel_booking_deploy.py
 
 
 8. Open the app in your browser
 
-http://localhost:8501
+   http://localhost:8501
 
 **📦 Sample requirements.txt**
 streamlit
 pandas
 scikit-learn
 numpy
-
 
 
 **🧩 Usage (what to input)**
@@ -98,12 +97,12 @@ Previous cancellations, previous bookings not canceled
 
 ADR (average daily rate), required parking spaces, special requests, etc.
 
-***Click Predict to see:***
+**Click Predict to see:**
 
 ✅ The booking is likely to be HONORED
 
 ❌ The booking is likely to be CANCELED
 
-***CONTACT***
+**CONTACT**
 
 Linkedin : 
