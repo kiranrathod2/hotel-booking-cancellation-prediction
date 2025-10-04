@@ -36,18 +36,18 @@ The backend model is trained using historical hotel booking data.
    
 2. Create & activate a virtual environment
 
-   macOS / Linux:
+ -  macOS / Linux:
 
    python3 -m venv venv
    source venv/bin/activate
 
-  Windows (PowerShell):
+ - Windows (PowerShell):
 
    python -m venv venv
    .\venv\Scripts\Activate.ps1
 
 
-  Windows (cmd):
+ - Windows (cmd):
 
    python -m venv venv
    .\venv\Scripts\activate
@@ -63,7 +63,7 @@ The backend model is trained using historical hotel booking data.
    pip install -r requirements.txt
 
 
-If you don’t have a requirements.txt, create one with the sample below.
+   If you don’t have a requirements.txt, create one with the sample below.
 
 7. Run the Streamlit app
 
@@ -105,4 +105,4 @@ ADR (average daily rate), required parking spaces, special requests, etc.
 
 **CONTACT**
 
-Linkedin : 
+
